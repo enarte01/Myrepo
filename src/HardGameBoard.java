@@ -1,7 +1,7 @@
 /**
  * Created by genie on 02/03/2016.
  */
-public class HardGaemBoard extends GameAbstractImpl {
+public class HardGameBoard extends GameAbstractImpl {
 
 
     @Override

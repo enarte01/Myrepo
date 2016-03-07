@@ -14,7 +14,7 @@ For each peg in the guess that is the correct color, but is out of position, you
 Only the first letter of the color is displayed. B for Blue, R for Red, and so forth.
 When entering guesses you only need to enter the first character of the color as a capital letter.
 
-You have 12 to guess the answer or you lose the game.
+You have 12 chances to guess the answer or you lose the game.
 
 Generating secret code ....
 The secret code is YRBY

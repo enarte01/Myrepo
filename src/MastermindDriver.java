@@ -18,14 +18,24 @@ public class MastermindDriver {
 
 
 
-        CreatePegArrayList c = new CreatePegArrayList();
+       // CreatePegArrayList c = new CreatePegArrayList();
 
-        c.createColourPegArrayList();
+       // c.setSeed(4);
+       // c.setColourPegArraySize(7);
 
-       // c.createSecretPegArrayList();
-
+        //
         EasyGameBoard easyGame = new EasyGameBoard();
 
-        easyGame.runGames();
+       easyGame.runGames();
+
+        Game g = new EasyGameBoard();
+
+
+
+
+     //   c.createColourPegArrayList();
+      //  c.createSecretPegArrayList();
+
+
     }
 }
